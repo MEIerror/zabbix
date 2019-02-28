@@ -1,0 +1,6 @@
+asoco.hb.factory-waste-water-hour 330405H01Aaas 废水
+asoco.hb.factory-rain-drain-hour 330405H03Aaae 雨水
+asoco.hb.factory-rain-drain-hour 330405H03Aaag 雨水
+asoco.hb.factory-rain-drain-hour 330405H03Aaah 雨水
+asoco.hb.factory-rain-drain-hour 330405H03Aaaj 雨水
+asoco.hb.factory-rain-drain-hour 330405H03Aaam 雨水
